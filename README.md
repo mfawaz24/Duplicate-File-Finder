@@ -8,6 +8,8 @@ The script is thorough and can handle the most messy assortments of subfolder ne
 
 The duplicate files that are removed have their name and location printed out in the terminal as they are removed. When cleaning is complete, a full list of removed duplicates is shown in the terminal.
 
+This script can very easily be rewritten to simply index the locations of various files.
+
 # How to use
 1. Navigate to script location in terminal
 2. Set file directory:
